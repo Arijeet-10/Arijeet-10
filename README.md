@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Arijeet Das</h1>
 <h3 align="center">A future Software Engineer</h3>
 
-<img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/QW8pIv34wpr1h4pbl3_StT5shEGGqKvjju9eIASARwY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2U0LzI2/LzcwL2U0MjY3MDJl/ZGY4NzRiMTgxYWNl/ZDFlMmZhNWM2Y2Rl/LmdpZg.gif">
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e477jdhqdsxrw3cy8p5eds3v5lcwjv0m28itccugvyq&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arijeet0523&label=Profile%20views&color=0e75b6&style=flat" alt="arijeet0523" /> </p>
 
