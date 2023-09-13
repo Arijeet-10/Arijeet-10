@@ -1,3 +1,4 @@
+![logo](https://github.com/Arijeet0523/Arijeet0523/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Arijeet Das</h1>
 <h3 align="center">A future Software Engineer</h3>
 
