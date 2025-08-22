@@ -126,12 +126,6 @@
 
 ---
 
-## 🐍 Contribution Snake:
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Arijeet-10/Arijeet-10/output/snake.svg" alt="Snake animation" />
-</div>
-
----
 
 ## ✍️ Random Dev Quote:
 <div align="center">
@@ -154,4 +148,4 @@
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
