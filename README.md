@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Always+Learning!" alt="Typing SVG" />
 </div>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
   <div style="flex: 1; min-width: 280px; max-width: 500px; text-align: left;">
     
