@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Always+Learning!" alt="Typing SVG" />
 </div>
 
-<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div align="center">
 
-  <div style="flex: 1; min-width: 280px; max-width: 500px; text-align: left;">
+  <div style="display: inline-block; width: 55%; vertical-align: top; text-align: left;">
     
   ## 💫 About Me:
   🛠️ **Currently working on:** Full-stack web apps, API integrations, and real-time systems<br/>  
@@ -18,11 +18,12 @@
 
   </div>
 
-  <div style="flex: 1; min-width: 280px; max-width: 500px; text-align: center;">
+  <div style="display: inline-block; width: 40%; vertical-align: top; text-align: center;">
     <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding gif" />
   </div>
 
 </div>
+
 
 
 ---
