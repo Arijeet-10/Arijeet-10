@@ -1,7 +1,20 @@
-# 💫 About Me:
+<div align="center">
+<table>
+<tr>
+<td valign="top">
+
+💫 About Me:
 🛠️ I’m currently working on: Full-stack web apps, API integrations, and real-time systems<br>🤝 I’m looking to collaborate on: Open-source projects and MERN/Next.js applications<br>🙋 I’m looking for help with: Advanced machine learning and system design<br>🌿 I’m currently learning: AI/ML, cloud deployment, and scalable architectures<br>💬 Ask me about: Web development, APIs, data structures & algorithms<br>⚡ Fun fact: I can debug faster at midnight than in the morning!
 
-
+</td>
+<td valign="top">
+<div align="center">
+<img height="200" src="https://i.imgflip.com/65efzo.gif" />
+</div>
+</td>
+</tr>
+</table>
+</div>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arijeet._10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arijeetdas10) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ArijeetD94617) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arijeetdas999@gmail.com) 
 
@@ -11,6 +24,19 @@
 ![](https://github-readme-stats.vercel.app/api?username=Arijeet-10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Arijeet-10&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arijeet-10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+###
+
+<img src="https://raw.githubusercontent.com/Arijeet-10/Arijeet-10/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arijeet-10/Arijeet-10/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arijeet-10/Arijeet-10/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Arijeet-10/Arijeet-10/output/pacman-contribution-graph.svg">
+</picture>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Arijeet-10&theme=radical&no-frame=false&no-bg=false&margin-w=4)
