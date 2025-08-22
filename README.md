@@ -18,7 +18,7 @@
 
   </div>
 
-  <div style="display: inline-block; width: 40%; vertical-align: top; text-align: center;">
+  <div align="right" style="display: inline-block; width: 40%; vertical-align: top; text-align: center;">
     <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding gif" />
   </div>
 
