@@ -6,7 +6,7 @@
 
 ## 💫 About Me:
 
-<img align="right" alt="Coding gif" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXkzdHczNTBhdTA4ZGVrYWo1dG50cjhxOGV6NDhyemVwYTB5anRpNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" />
+<img align="right" alt="Coding gif" height="200" src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXkzdHczNTBhdTA4ZGVrYWo1dG50cjhxOGV6NDhyemVwYTB5anRpNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGt0N3dmcHB3NG8xN2YwMzI3OWc5cWF6eHA1c3o5eWs0d2lwZWIyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif)" />
 
 - 🛠️ **Currently working on:** Full-stack web apps, API integrations, and real-time systems  
 - 🤝 **Looking to collaborate on:** Open-source projects and MERN/Next.js applications  
